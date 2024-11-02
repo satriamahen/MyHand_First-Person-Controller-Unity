@@ -2,6 +2,8 @@
 
 True First-Person Controller for Unity Game Engine
 
+![](https://github.com/satriamahen/MyHand_First-Person-Controller-Unity/blob/main/Gallery/MyHand_FirstPerson_Demo.gif)
+
 Features:
 1. True First-Person (Player can look at the character's body when looking down)
 2. Realistic Movement (Minimal Foot Sliding)
